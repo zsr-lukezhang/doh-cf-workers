@@ -1,7 +1,6 @@
 name = "doh-check"
 type = "javascript"
 
-account_id = "$CF_ACCOUNT_ID"
 workers_dev = true
 
 # 指定构建输出目录
